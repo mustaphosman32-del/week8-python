@@ -1,0 +1,65 @@
+
+PERSONAL MINI-TOOLKIT — PROJECT PLAN
+
+1. TOOLS
+
+Tool 1: Simple Calculator
+The calculator adds, subtracts, multiplies, and divides two numbers.
+
+Tool 2: Number Guessing Game
+The game lets the user guess a secret number between 1 and 10 until the correct number is guessed.
+
+Tool 3: To-Do List
+The to-do list allows the user to add, view, and remove tasks while the program is running.
+
+Tool 4: Name Formatter
+The name formatter asks for a name and displays it in uppercase, lowercase, and title case.
+
+2. EXACT MENU TEXT
+
+Welcome to My Personal Mini-Toolkit!
+
+Please choose a tool:
+1. Simple Calculator
+2. Number Guessing Game
+3. To-Do List
+4. Name Formatter
+5. Quit
+
+Enter your choice (1-5):
+
+3. PYTHON CONCEPTS USED
+
+Simple Calculator:
+- Input and output
+- Variables
+- Conditionals
+- Try and except
+- F-strings
+
+Number Guessing Game:
+- Random module
+- While loop
+- Conditionals
+- Variables
+- F-strings
+
+To-Do List:
+- Lists
+- List append() and pop()
+- While loop
+- For loop
+- Conditionals
+- F-strings
+
+Name Formatter:
+- String methods
+- Input and output
+- Variables
+- F-strings
+
+Main Menu:
+- While loop
+- If, elif, and else
+- Input and output
+- F-strings
